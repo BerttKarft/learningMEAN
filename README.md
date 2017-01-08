@@ -6,4 +6,6 @@ Month of January:
 
 8th:
 First submission of Application 
+Added to Git repository
+Added to LINKEDIN account
 

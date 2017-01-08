@@ -2,7 +2,7 @@ To do list comprises of daily objectives that I want to accomplish. Will be dete
 This list will go by months and just like the README this document will be archived in a seperate folder in the repository.
 
 
-!!MOST TODO'S WILL BE LOCAL TO THE REPOSITORY!!
+!!!All toDo's will be put into this toDo.txt!!!!!
 
 
 
@@ -12,14 +12,17 @@ E = Excused (Emergencies or higher priority agenda excuse a goal)
 x = Complete
 R = Under Revision (Doing an activity I should have done previously)
 
-January:
 
+For the blog, I am planning on implementing it either server wide or using a hosting application to get the blog online. It'll have to wait for my financial situation to better.
+
+January:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 	8th:
 		Set up repository for LinkedIN [x]
 		Edit on README [x]
-		Make other repositories for other projects like: Blog and Java 	[A]
-		Write out Core philosophy for Blog []
-		Work more on blog (research more than likely) []
+		Make other repositories for other projects like: Blog and Java 	[x]
+		Write out Core philosophy for Blog [x]
+		Work more on blog (research more than likely) [x]
 		Understand how to use a template for express []
 
 
